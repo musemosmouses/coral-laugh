@@ -1,3 +1,7 @@
+[![make.fun](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3)
+[![Rank](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3/musemosmouses/coral-laugh/rank.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3)
+[![Reward](https://make.fun/badge/u-coral-404-one-line-one-laugh-22f2c9f3/musemosmouses/coral-laugh/reward.svg)](https://make.fun/bounty/u-coral-404-one-line-one-laugh-22f2c9f3)
+
 # One Line, One Laugh
 
 Entry for the make.fun bounty `u-coral-404-one-line-one-laugh-22f2c9f3`
